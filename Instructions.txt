@@ -1,0 +1,21 @@
+Hey mate!
+
+To use the program, press Ctrl + Shift + p, this will then bring up the ui.
+
+Select the options you want to enable and type in what you want to search, e.g "ar" and selecting the "end of the word" and "spanish dictionary" options will search for all words in Spanish ending in ar
+
+Then click start search to begin the search! A popup box of "Finished!" will appear when the program has finished searching
+
+Simply look in the text file of "Output Spanish" or "Output English" (depending on the language(s) you chose) and all the words will be there!
+
+Also please keep all text files together and do not change the names of the text files as this will mess up the program!
+
+The text files are: "All Spanish words No genders.txt" and "All English Words.txt" if you ever need to reenter the names after accidentally changing one.
+
+To end the application fully, press escape or click on the arrow on the bottom right of your desktop and end the program from there.
+
+If the program is not ended, Ctrl + Shift + p will repeatedly bring up the ui, allowing you to do multiple searches
+
+Searching again will overwrite whatever was written before, so back the file/the data up in a different place if you don't want to lose it.
+
+I hope it's useful to you! :D
